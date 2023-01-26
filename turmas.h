@@ -9,14 +9,14 @@
 class Turmas
 {
     int codigo;
-    vector <Aluno*> A;
-    Professor P;
+    vector <Aluno*> alunos;
+    Professor professor;
     
     public:
         void setCodigo(int codigo);
         int getCodigo();
-        void setAluno(vector <Aluno*> A);
-        void setProfessor(Professor P);
+        void setAluno(Aluno*);
+        void setProfessor(Professor);
 };
 
 

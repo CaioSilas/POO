@@ -96,9 +96,11 @@ int gerarRelatorio(int x){
 int Menu(vector <Aluno> aluno,vector <Professor> proff, vector <Gestores> gest)
 {
     vector <Turmas*> turmas;
-    // for(int i = 0;i < 8;i++){
-    //     turmas[i].codigo.setcodigo(i+1);
-    // }
+    for (int i = 0; i < 8; i++) {
+        turmas[i]->setCodigo(i + 1);
+        // printf("%d\n",turmas[i]->getCodigo());
+    }
+    
 
     // turmas[0].codigo = 1;
     // turmas[1].codigo = 2;

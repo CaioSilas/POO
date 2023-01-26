@@ -4,10 +4,14 @@ void Turmas:: setCodigo(int x){
     this->codigo = x;
 }
 
-void Turmas:: setAluno(vector <Aluno*>&aluno){
-    this->aluno = aluno;
+int Turmas:: getCodigo() {
+    return this->codigo;
 }
 
-void Turmas:: setProfessor(Professor &P){
-    this->professor = &P;
+void Turmas:: setAluno(Aluno* aluno){
+    this->alunos.push_back(aluno);
+}
+
+void Turmas:: setProfessor(Professor professor){
+    this->professor = professor;
 }
