@@ -8,10 +8,11 @@ using namespace std;
 class Professor : public Pessoa{
     string ministra;
 public:
-    Professor(string ="",int =0,int =0,string="");
+    Professor(string ="",string ="",string = "",string="");
     void setMinistra(string);
     string getMinistra()const;
     friend ostream& operator<<(ostream&, const Professor&);
+    Professor& operator=(const Professor& P);
     //friend Gestores;
 };
 

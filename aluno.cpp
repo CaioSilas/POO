@@ -1,6 +1,6 @@
 #include "aluno.h"
 
-Aluno :: Aluno(string nome, int telefone, int cpf, string curso, int matricula) : Pessoa(nome, telefone, cpf) ,
+Aluno :: Aluno(string nome, string telefone, string cpf, string curso, string matricula) : Pessoa(nome, telefone, cpf) ,
 curso(curso), matricula(matricula) {}
 
 void Aluno ::setCurso(string curso){
@@ -14,8 +14,21 @@ void Aluno::setMatricula(int matricula){
     this->matricula = matricula;
 }
 
-int Aluno::getMatricula() const{
+string Aluno::getMatricula() const{
     return matricula;
+}
+
+Aluno& Aluno :: operator=(const Aluno& P){
+    if (this == &P){
+        return *this;
+    }
+    this->curso = P.curso;
+    this->matricula = P.matricula;
+    this->setNome(P.getNome());
+    this->setTelefone(P.getTelefone() );
+    this->setCpf(P.getCpf());
+
+    return *this;
 }
 
 // int Aluno::menuAluno(int x){

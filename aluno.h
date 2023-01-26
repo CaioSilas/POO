@@ -10,18 +10,19 @@ using namespace std;
 class Aluno : public Pessoa{
 
     string curso;
-    int matricula;
+    string matricula;
 
 public:
-    Aluno(string ="",int = 0,int = 0,string =0,int =0);
+    Aluno(string ="",string = "", string = "",string ="",string ="");
     void setCurso(string);
     string getCurso()const;
     void setMatricula(int);
-    int getMatricula()const;
+    string getMatricula()const;
     // int menuAluno(int);
 
     friend ostream& operator<<(ostream&, const Aluno&);
-    //friend Gestores;
+    Aluno& operator = (const Aluno&);
+    
 
 };
 

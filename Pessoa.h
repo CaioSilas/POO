@@ -11,17 +11,17 @@ using namespace std;
 class Pessoa
 {
     string nome;
-    int telefone;
-    int cpf;
+    string telefone;
+    string cpf;
 
 public:
-    Pessoa(string= "",int=0,int=0);
+    Pessoa(string= "",string="",string="");
     void setNome(string);
     string getNome()const;
-    void setTelefone(int);
-    int getTelefone()const;
-    void setCpf(int);
-    int getCpf()const;
+    void setTelefone(string);
+    string getTelefone()const;
+    void setCpf(string);
+    string getCpf()const;
     friend ostream& operator <<(ostream&, const Pessoa&);
 };
 

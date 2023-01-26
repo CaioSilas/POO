@@ -9,7 +9,7 @@ class Gestores : public Pessoa{
     string login;
     string senha;
 public:
-    Gestores (string = "",int=0,int=0,string ="",string="");
+    Gestores (string = "",string ="",string ="",string ="",string="");
     void setLogin(string);
     void setSenha(string);
     string getLogin()const;

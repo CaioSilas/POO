@@ -1,7 +1,7 @@
 #include "gestores.h"
 
 
-Gestores :: Gestores(string nome, int telefone, int cpf, string login, string senha) : Pessoa(nome,telefone,cpf),
+Gestores :: Gestores(string nome, string telefone, string cpf, string login, string senha) : Pessoa(nome,telefone,cpf),
 login(login), senha(senha) {}
 
 void Gestores ::setLogin(string login){
