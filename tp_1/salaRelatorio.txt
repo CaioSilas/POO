@@ -1,0 +1,25 @@
+Sala: 1
+Segunda: Biologia
+Terca: Biologia
+Quarta: Matematica
+Quinta: Matematica
+Sexta: 
+Sala: 2
+Segunda: Geografia
+Terca: Geografia
+Quarta: Quimica
+Quinta: Quimica
+Sexta: 
+Sala: 3
+Segunda: Portugues
+Terca: Portugues
+Quarta: Redacao
+Quinta: Redacao
+Sexta: 
+Sala: 4
+Segunda: Fisica
+Terca: Fisica
+Quarta: Educacao Fisica
+Quinta: Educacao Fisica
+Sexta: 
+

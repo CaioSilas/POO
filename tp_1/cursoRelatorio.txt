@@ -1,0 +1,208 @@
+Curso: Biologia
+Professor: nome: Marcos pereira
+Ministra: Biologia
+
+Alunos:
+nome: Fabio
+curso: Biologia
+matricula: 001
+
+nome: Carlos
+curso: Biologia
+matricula: 002
+
+nome: Ana
+curso: Biologia
+matricula: 003
+
+nome: Bruna
+curso: Biologia
+matricula: 004
+
+nome: Joao
+curso: Biologia
+matricula: 005
+
+nome: Pedro
+curso: Biologia
+matricula: 006
+
+nome: Lucio
+curso: Biologia
+matricula: 007
+
+nome: Marcello
+curso: Biologia
+matricula: 008
+
+nome: Marcella
+curso: Biologia
+matricula: 009
+
+nome: Flavio
+curso: Biologia
+matricula: 010
+
+Curso: Redacao
+Professor: nome: Claudio Antonio
+Ministra: Redacao
+
+Alunos:
+nome: Leti
+curso: Redacao
+matricula: 032
+
+Curso: Portugues
+Professor: nome: Cleiton Silva
+Ministra: Portugues
+
+Alunos:
+nome: Leticia
+curso: Portugues
+matricula: 031
+
+Curso: Fisica
+Professor: nome: Guilherme Costa
+Ministra: Fisica
+
+Alunos:
+nome: Fabio
+curso: Fisica
+matricula: 038
+
+nome: Carlos
+curso: Fisica
+matricula: 039
+
+nome: Ana
+curso: Fisica
+matricula: 040
+
+nome: Bruna
+curso: Fisica
+matricula: 041
+
+nome: Joao
+curso: Fisica
+matricula: 042
+
+Curso: Matematica
+Professor: nome: Adre Lucio
+Ministra: Matematica
+
+Alunos:
+nome: Fabio
+curso: Matematica
+matricula: 011
+
+nome: Carlos
+curso: Matematica
+matricula: 012
+
+nome: Ana
+curso: Matematica
+matricula: 013
+
+nome: Bruna
+curso: Matematica
+matricula: 014
+
+nome: Joao
+curso: Matematica
+matricula: 015
+
+nome: Pedro
+curso: Matematica
+matricula: 016
+
+nome: Lucio
+curso: Matematica
+matricula: 017
+
+nome: Marcello
+curso: Matematica
+matricula: 018
+
+nome: Marcella
+curso: Matematica
+matricula: 019
+
+nome: Flavio
+curso: Matematica
+matricula: 020
+
+Curso: Geografia
+Professor: nome: Thales Filipe
+Ministra: Geografia
+
+Alunos:
+nome: Gaus
+curso: Geografia
+matricula: 021
+
+nome: Taus
+curso: Geografia
+matricula: 022
+
+nome: Maus
+curso: Geografia
+matricula: 023
+
+nome: Raus
+curso: Geografia
+matricula: 024
+
+nome: Laus
+curso: Geografia
+matricula: 025
+
+Curso: Quimica
+Professor: nome: Lucas Matheus
+Ministra: Quimica
+
+Alunos:
+nome: Caio
+curso: Quimica
+matricula: 026
+
+nome: Haio
+curso: Quimica
+matricula: 027
+
+nome: Falio
+curso: Quimica
+matricula: 028
+
+nome: Maio
+curso: Quimica
+matricula: 029
+
+nome: Raio
+curso: Quimica
+matricula: 030
+
+Curso: Educacao Fisica
+Professor: nome: Caio Carlos
+Ministra: Educacao Fisica
+
+Alunos:
+nome: Caio
+curso: Educacao Fisica
+matricula: 033
+
+nome: Haio
+curso: Educacao Fisica
+matricula: 034
+
+nome: Falio
+curso: Educacao Fisica
+matricula: 035
+
+nome: Maio
+curso: Educacao Fisica
+matricula: 036
+
+nome: Raio
+curso: Educacao Fisica
+matricula: 037
+

@@ -1,0 +1,2 @@
+all:
+	g++ Pessoa/pessoa.cpp Aluno/aluno.cpp Gestor/gestor.cpp Professor/professor.cpp Curso/curso.cpp TabelaHorario/TabelaHorario.cpp SubMenuAluno/subMenuAluno.cpp SubMenuProfessor/subMenuProfessor.cpp SubMenuCurso/subMenuCurso.cpp  SubMenuRelatorio/subMenuRelatorio.cpp main.cpp -o exe -Wall

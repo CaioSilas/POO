@@ -1,0 +1,8 @@
+Marcos pereira;12345678;45632145617;Biologia;
+Claudio Antonio;31986575;97615495126;Redacao;
+Cleiton Silva;12356492;14516335260;Portugues;
+Guilherme Costa;32146575;98715634560;Fisica;
+Adre Lucio;98462561;45368795260;Matematica;
+Thales Filipe;65987523;45692143515;Geografia;
+Lucas Matheus;65475832;12348965115;Quimica;
+Caio Carlos;97231822;139014637650;Educacao Fisica;

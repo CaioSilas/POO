@@ -1,0 +1,9 @@
+Biologia;0;0;0;1;
+Redacao;2;2;2;3;
+Portugues;2;0;2;1;
+Fisica;3;0;3;1;
+Matematica;0;2;0;3;
+Geografia;1;0;1;1;
+Quimica;1;2;1;3;
+Educacao Fisica;3;2;3;3;
+Astro;0;4;1;4;
